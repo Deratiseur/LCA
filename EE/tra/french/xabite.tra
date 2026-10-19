@@ -1,0 +1,40 @@
+@0=~Laissez-moi voir. Hmm... les vampires mordent pour se nourrir, mais aussi pour transformer leurs victimes en vampires. Je crois que nous sommes dans le second cas.~
+@1=~Laissez-moi voir. Hmm... les vampires mordent pour se nourrir, mais aussi pour transformer leurs victimes en vampires. Je crois que nous sommes dans le second cas.~
+@2=~On dit que tuer le vampire avant que la transformation soit achevée guérit la victime. Nous devons agir vite : Bodhi est une vampire exceptionnellement puissante. Je pense que nous avons un jour, peut-être moins, avant que Schael ne soit transformée.~
+@3=~Y a-t-il quelque chose que nous puissions faire pour arrêter ça ?~
+@4=~Schael, essaie de rester calme, mon amour. Nous trouverons Bodhi et nous te guérirons avant que ton état n'empire.~
+@5=~Je suis certaine que les raisons de votre venue vous paraissent toutes très importantes. Épargnez-moi seulement l'ennui de les entendre.~
+@6=~Je suis venu chercher la Lanterne de Rhynn, Bodhi. Cette fois, vous ne m'échapperez pas.~
+@7=~Je vengerai ce que vous m'avez fait, ainsi qu'à Schael et Imoen. Il est temps que vous payiez pour vos crimes.~
+@8=~Comme si vos crimes contre moi ne suffisaient pas, vous avez mis en danger toute une cité elfique !~
+@9=~Vous n'avez plus aucune échappatoire, vampire ! Je planterai votre cœur noir au bout d'une pique !~
+@10=~Et comment va votre chère capitaine Corwin ? Pas très bien, à ce que je vois. J'avais prévu de la transformer et de l'utiliser pour vous tuer, mais elle semble avoir résisté à la transformation, du moins en partie.~
+@11=~Peu importe. Je vais vous tuer et, une fois sa transformation achevée, je l'enverrai se repaître de sa propre famille. Cela me semble un châtiment approprié pour avoir eu l'audace de me résister, vous ne trouvez pas ?~
+@12=~Et comment va votre chère capitaine Corwin ? Très mal, à ce que je vois. Il semble qu'elle soit morte au moment même où la transformation s'est achevée. Comme c'est regrettable.~
+@13=~Une fois que je me serai débarrassée de vous, je la ranimerai, puis je l'enverrai se repaître de sa propre famille. Voilà un châtiment approprié pour son ingérence incessante dans mes affaires, vous ne trouvez pas ?~
+@14=~Votre défiance persistante me rappelle ces pitoyables elfes.~
+@15=~Ils méritent tout ce qui leur arrive, et davantage encore ! Ils n'osent même pas nous approcher tandis que nous les détruisons, telle est leur arrogance !~
+@16=~La seule chose que vous ferez, c'est mourir de ma main, ici. Je trouverai un moyen de rendre à Schael son état normal et d'annuler cette maudite transformation que vous lui avez infligée.~
+@17=~Je devrais presque vous laisser vivre, rien que pour qu'il ait la honte de devoir répondre aux questions d'un étranger sur toute cette affaire ! Presque !~
+@18=~Mais... non, j'ai déjà beaucoup préparé cette rencontre, <CHARNAME>. Je vous avais prévenu que vous subiriez de lourdes pertes si vous poursuiviez votre route vers moi. Je n'ai pas menti.~
+@19=~Vous avez déjà pris bien trop de choses ! Vous rendrez son âme à Imoen et restaurerez Schael !~
+@20=~Et vous avez tenu cette promesse. Restaurez Schael et peut-être ferai-je preuve de clémence.~
+@21=~Je vous aurais pourchassée rien que pour ce que vous avez fait à Schael. Elle compte énormément pour moi.~
+@22=~Elle est perdue pour vous, <CHARNAME>. La transformation de Corwin ne peut être annulée tant que je vis. Vous ne serez même pas réunis dans la mort !~
+@23=~Votre rôle dans cette histoire s'arrête ici, <CHARNAME>. Je me repaîtrai du sang des dieux tandis que vous entrerez dans la mort en sachant que vous n'avez pas réussi à sauver la femme que vous aimez !~
+@24=~Le combat final contre Bodhi
+
+J'ai enfin retrouvé Bodhi dans son antre ! Je dois veiller à tirer parti de tous les avantages à ma disposition, y compris l'eau bénite qu'Elhan m'a donnée. Je doute qu'elle lui fasse beaucoup de mal directement... mais peut-être existe-t-il un moyen de souiller la puissance qu'elle tire de cet endroit, d'utiliser l'eau bénite pour affaiblir le sang dont elle se nourrit...
+
+Et si je survis, je devrai trouver un moyen d'annuler la transformation vampirique de Schael. Bodhi a dit que tant qu'elle serait vivante, Schael ne pourrait pas retrouver son état normal.~
+@25=~Le combat final contre Bodhi
+
+Bodhi, la sœur d'Irenicus, a enfin été vaincue. Cela montre au moins que la puissance et l'immortalité tant vantées du frère et de la sœur ne sont pas infinies. Et il reste après tout un espoir de récupérer mon âme... même si le fait que Bodhi soit une morte-vivante rendait peut-être plus difficile pour elle de conserver l'essence d'Imoen ; je l'ignore. Ce qui compte maintenant, c'est de restaurer Schael. Bodhi a laissé entendre que cela resterait impossible tant qu'elle serait en vie. Je dois trouver le cercueil de Bodhi et en finir avec elle une fois pour toutes.~
+@26=~Elhan ! À cause de vous, j'ai ici le corps à moitié vampirisé de Schael ! Vous allez me répondre maintenant !~
+@27=~J'ai perdu une personne que j'aimais lors d'un combat contre sa sœur, Bodhi. Je cherche un moyen de la guérir.~
+@28=~Une amie est atteinte de vampirisme. Un vieux livre suggérait que les fidèles d'Oghma pourraient savoir quelque chose à ce sujet.~
+@29=~Je cherche des informations sur un ouvrage décrivant un remède au vampirisme.~
+@30=~Êtes-vous venu chercher la sagesse auprès du Lieur de ce qui est connu ? Le Dieu Sage est prêt à vous répondre.~
+@31=~Non merci, je n'ai pas besoin d'aide pour le moment.~
+@32=~Une amie est atteinte de vampirisme. Un vieux livre suggérait que les fidèles d'Oghma pourraient savoir quelque chose à ce sujet.~
+@33=~Quelqu'un qui compte pour moi est tombé sous les crocs d'un vampire. Existe-t-il un moyen de la sauver ?~

@@ -1,0 +1,64 @@
+@0=~Je dois envoyer cette dague à la Porte de Baldur. Je crois qu'il s'agit de l'arme utilisée pour assassiner la fille de l'un des Grands Ducs.~
+@1=~Une arme du crime, dites-vous ? Laissez-moi voir ça.~
+@2=~Hm. Je vous propose ceci : puisque les enquêtes criminelles vous intéressent, pourquoi ne pas nous aider à résoudre la série de meurtres qui frappe notre cité ? Si vous parvenez à faire avancer mon affaire, je demanderai volontiers à l'un de mes messagers d'acheminer la dague jusqu'à la Porte de Baldur.~
+@3=~Cela me paraît équitable. Je vais voir ce que je peux faire. Dites-moi ce que vous savez sur ces meurtres.~
+@4=~Une autre fois, peut-être. J'ai des affaires plus urgentes à régler.~
+@5=~Les autorités de ce trou à rats doré sont-elles donc incapables de résoudre leurs crimes sans compter sur les passants ? Je n'ai pas de temps à perdre avec ça.~
+@6=~Restaurer Skie Silvershield
+
+Brega, qui travaille pour la magistrature d'Athkatla, a proposé d'envoyer la dague Preneur d'âmes à la Porte de Baldur si je l'aidais à enquêter sur une série de meurtres dans le Quartier du Pont. Les magiciens et les prêtres de la cité pourront peut-être utiliser la dague pour rendre l'âme de Skie Silvershield à son corps. J'ai accepté de l'aider.~
+@7=~Comme vous voulez. Vous savez où me trouver si vous changez d'avis.~
+@8=~Inutile d'être impoli, voyageur. Mieux vaut poursuivre votre chemin.~
+@9=~(Vous remettez la dague et la lettre à Brega.)~
+@11=~Prenez votre temps. Vous savez où me trouver.~
+@12=~Bien sûr. Vous voulez envoyer la lettre et la dague à Schael Corwin, capitaine du Poing Enflammé, c'est bien cela ?~
+@13=~Oui, c'est exact.~
+@14=~Restaurer Skie Silvershield
+
+Brega, qui travaille pour la magistrature d'Athkatla, a eu la gentillesse d'envoyer la dague Preneur d'âmes ainsi qu'une lettre expliquant ma situation à mon amour, le capitaine Schael Corwin du Poing Enflammé. J'espère que les magiciens et les prêtres de la cité pourront utiliser la dague pour rendre l'âme de Skie Silvershield à son corps. Si cela fonctionne, Skie pourra confirmer que je suis innocent des crimes dont on m'accuse. Peut-être alors Schael et moi pourrons-nous enfin être ensemble, une fois cette affaire avec Irenicus terminée. C'est cet espoir qui me donne la force de continuer.~
+@15=~Non, j'ai encore besoin d'un peu de temps pour y réfléchir.~
+@16=~Restaurer Skie Silvershield
+
+Brega, qui travaille pour la magistrature d'Athkatla, a eu la gentillesse d'envoyer la dague Preneur d'âmes ainsi qu'une lettre expliquant ma situation au capitaine Schael Corwin du Poing Enflammé. J'espère que les magiciens et les prêtres de la cité pourront utiliser la dague pour rendre l'âme de Skie Silvershield à son corps. Si cela fonctionne, Skie pourra confirmer que je suis innocent des crimes dont on m'accuse.~
+@17=~Bien sûr. Vous voulez envoyer la lettre et la dague au caporal Bence Duncan du Poing Enflammé, c'est bien cela ?~
+@18=~Restaurer Skie Silvershield
+
+Brega, qui travaille pour la magistrature d'Athkatla, a eu la gentillesse d'envoyer la dague Preneur d'âmes ainsi qu'une lettre expliquant ma situation au caporal Bence Duncan du Poing Enflammé. J'espère que les magiciens et les prêtres de la cité pourront utiliser la dague pour rendre l'âme de Skie Silvershield à son corps. Si cela fonctionne, Skie pourra confirmer que je suis innocent des crimes dont on m'accuse.~
+@19=~Oui, bien sûr. Avez-vous également une lettre à joindre ?~
+@20=~Oui, laissez-moi un instant. (Écrire une lettre au capitaine Schael Corwin du Poing Enflammé.)~
+@21=~Oui, laissez-moi un instant. (Écrire une lettre au caporal Bence Duncan du Poing Enflammé.)~
+@22=~Non, j'ai besoin d'un peu de temps pour réfléchir à ce que je vais écrire. Je reviendrai vous voir lorsque je serai prêt.~
+@23=~À propos de la dague : vous aviez dit que vous l'enverriez à la Porte de Baldur si je vous aidais à résoudre votre affaire.~
+@24=~Voici du papier et de quoi écrire. Revenez me voir lorsque vous serez prêt à envoyer la lettre.~
+@25=~Merci, citoyen. Parlez au lieutenant Aegisfield dans le Quartier du Pont ; c'est lui qui dirige l'enquête et il vous donnera tous les détails.~
+@26=~Ah, vous avez terminé votre lettre. Vous voulez l'envoyer avec la dague à Schael Corwin, capitaine du Poing Enflammé, c'est bien cela ?~
+@27=~Ah, vous avez terminé votre lettre. Vous voulez l'envoyer avec la dague au caporal Bence Duncan du Poing Enflammé, c'est bien cela ?~
+@28=~Ah, vous avez terminé votre lettre. Vous aviez dit vouloir envoyer une dague aussi — où est-elle ?~
+@29=~Je semble l'avoir égarée. Je reviendrai lorsque je l'aurai retrouvée afin que vous puissiez l'envoyer avec la lettre.~
+@30=~Je vous en prie, c'est urgent. La vie d'une jeune femme est en jeu.~
+@31=~Eh bien... si c'est vraiment urgent... d'accord, je ferai livrer la dague.~
+@32=~Avez-vous également une lettre à joindre ?~
+@33=~Je vous en remercie.~
+@34=~Vous aviez dit que vous m'aideriez à envoyer cette dague à la Porte de Baldur.~
+@35=~Mon messager viendra chercher tout cela demain matin à la première heure. Il faudra quelques jours pour que tout parvienne à la Porte de Baldur. Merci encore pour votre aide, citoyen.~
+
+//Added 2023-09-08
+@36=~Je dois envoyer une lettre à la Porte de Baldur.~
+@37=~La Porte de Baldur, dites-vous ? Ce sera 100 pièces d'or.~
+@38=~La Porte de Baldur, dites-vous ? Puisque vous nous avez aidés à résoudre notre affaire, je l'enverrai gratuitement.~
+@39=~Revenez quand vous l'aurez. Je serai ici.~
+@40=~À qui voulez-vous l'envoyer ?~
+@41=~Tenez. (Payer 100 pièces d'or.)~
+@42=~Un instant... (Écrire une lettre romantique au capitaine Schael Corwin du Poing Enflammé.)~
+@43=~Un instant... (Écrire une lettre au capitaine Schael Corwin du Poing Enflammé.)~
+@44=~Un instant... (Écrire une lettre au caporal Bence Duncan du Poing Enflammé.)~
+@45=~De sombres circonstances
+Brega, qui travaille pour la magistrature d'Athkatla, a eu la gentillesse d'envoyer une lettre expliquant ma situation au capitaine Schael Corwin du Poing Enflammé. J'espère que les magiciens et les prêtres de la cité ont pu restaurer Skie après que son âme eut été libérée de la dague. Si c'est le cas, elle pourra confirmer que je suis innocent des crimes dont on m'accuse. Peut-être alors Schael et moi pourrons-nous enfin être ensemble une fois cette affaire avec Irenicus terminée. C'est cet espoir qui me donne la force de continuer.~
+@46=~Ah, vous avez terminé votre lettre. Vous voulez l'envoyer à Schael Corwin, capitaine du Poing Enflammé, c'est bien cela ?~
+@47=~(Vous remettez la lettre à Brega.)~
+@48=~Mon messager viendra la chercher demain matin à la première heure. Il faudra quelques jours pour qu'elle parvienne à la Porte de Baldur. Revenez me voir dans environ une semaine. Si vous attendez une réponse, je devrais l'avoir reçue d'ici là.~
+@49=~De sombres circonstances
+Brega, qui travaille pour la magistrature d'Athkatla, a eu la gentillesse d'envoyer une lettre expliquant ma situation au capitaine Schael Corwin du Poing Enflammé. J'espère que les magiciens et les prêtres de la cité ont pu restaurer Skie après que son âme eut été libérée de la dague. Si cela a fonctionné, elle pourra confirmer que je suis innocent des crimes dont on m'accuse.~
+@50=~Ah, vous avez terminé votre lettre. Vous voulez l'envoyer au caporal Bence Duncan du Poing Enflammé, c'est bien cela ?~
+@51=~De sombres circonstances
+Brega, qui travaille pour la magistrature d'Athkatla, a eu la gentillesse d'envoyer la dague Preneur d'âmes ainsi qu'une lettre expliquant ma situation au caporal Bence Duncan du Poing Enflammé. J'espère que les magiciens et les prêtres de la cité ont pu restaurer Skie après que son âme eut été libérée de la dague. Si cela a fonctionné, elle pourra confirmer que je suis innocent des crimes dont on m'accuse.~
