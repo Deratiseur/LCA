@@ -1,0 +1,64 @@
+@0=~Des objets de premier choix... à des prix de premier choix.~
+@1=~Ah, bienvenue.~
+@2=~Les choses semblent s'être nettement améliorées depuis ma dernière visite.~
+@4=~Vous venez voir les marchandises du vieux Halbazzer, hein ?~
+@5=~Voyons ce que vous avez, alors.~
+@7=~Que dire ? Ils se sont installés dans l'ancien quartier général du Trône de Fer au plus fort de la crise. Peu après, les réfugiés ont quitté la cité, bateau après bateau.~
+@8=~J'enquête sur un trafic d'esclaves... Je pense que les réfugiés n'ont pas été réinstallés, mais vendus comme esclaves.~
+@9=~Ça ne me surprendrait pas que ce soit vrai, mais je ne sais rien des activités que vous décrivez.~
+@10=~Écoutez... (S'approcher et demander s'il peut enchanter la bague.)~
+@12=~Oui, Aldeth m'a dit que vous passeriez peut-être. Laissez-moi voir ça.~
+@13=~(Lui remettre la boîte contenant la bague.)~
+@14=~Hmm...~
+@15=~Oui, très bien. Cette bague est d'une qualité exceptionnelle. Je peux y placer jusqu'à trois enchantements.~
+@16=~Quels types d'enchantements pouvez-vous réaliser ?~
+@17=~Combien cela coûtera-t-il ?~
+@18=~Rien. Aldeth est un bon ami, et je lui dois un service. En faisant cela pour vous en son nom, ma dette envers lui sera réglée.~
+@19=~Aldeth est très généreux, n'est-ce pas ?~
+@20=~En effet, même si je soupçonne qu'il fait cela en partie pour gagner vos faveurs.~
+@21=~Vraiment ?~
+@22=~Bien sûr. Aldeth est un bon homme d'affaires et, à ce titre, il cherchera à nouer des relations avantageuses avec les personnes susceptibles de l'aider à l'avenir, voyez-vous.~
+@23=~Ah, cela se tient.~
+@24=~Je ne comprends pas — que pense-t-il que je puisse faire pour lui ?~
+@25=~N'est-ce pas évident ? Vous êtes le héros de la Porte de Baldur ! Pas seulement de la Porte de Baldur, mais de toute la Côte des Épées ! Maintenant que votre nom a été lavé, lui et d'autres doivent s'attendre à ce que vous obteniez un jour un siège au Conseil. Avoir un ami au Conseil peut faire des merveilles quand on cherche à développer ses affaires.~
+@26=~Maintenant, revenons à cette bague...~
+@27=~Je peux ajouter au total trois des enchantements suivants à la bague :
+Une augmentation de la vitesse de déplacement et d'attaque du porteur ;
+Une amélioration des défenses du porteur contre les attaques magiques ;
+Une augmentation de la résistance du porteur aux attaques physiques ;
+Une amélioration de la santé et de la vitalité du porteur ;
+Et enfin, une meilleure résistance du porteur aux effets mentaux, comme le charme ou la confusion.
+
+Quel est le premier enchantement que vous souhaitez ajouter ?~
+@28=~Quel est le deuxième enchantement que vous souhaitez ajouter ?~
+@29=~Et le dernier enchantement ?~
+@30=~L'enchantement de vitesse de déplacement et d'attaque.~
+@31=~L'enchantement de défense magique.~
+@32=~L'enchantement de résistance physique.~
+@33=~L'enchantement de santé et de vitalité.~
+@34=~L'enchantement de barrière mentale.~
+@35=~Très bien. Revenez me voir dans une semaine. Les enchantements auront alors été appliqués.~
+@36=~Dites-moi, que savez-vous de Winston Ventures ? J'ai cru comprendre qu'ils étaient principalement responsables du départ des réfugiés de la cité.~
+@37=~J'avais entendu dire que le héros de la Porte de Baldur rentrerait bientôt.~
+@38=~Oui, Jhasso m'a dit que vous passeriez peut-être. Laissez-moi voir ça.~
+@39=~Rien. Jhasso est un bon ami, et je sais qu'il serait mort sans votre intervention. Permettez-moi de faire cela pour vous en guise de remerciement, non seulement pour lui avoir sauvé la vie, mais aussi pour avoir mis fin à Caelar et à sa croisade.~
+@40=~Merci, j'apprécie.~
+@41=~Qu'avez-vous ?~
+@42=~Oubliez mes choix précédents, je voudrais recommencer.~
+@43=~Excellent. Il reste juste un dernier point à discuter.~
+@44=~Lequel ?~
+@45=~En tant qu'enfant d'une divinité, vous êtes un être d'une puissance immense... si vous le souhaitez, vous pouvez utiliser une partie de votre force vitale divine pour augmenter la puissance des enchantements à des niveaux *véritablement* extraordinaires.~
+@46=~Pourquoi cela ne me surprend-il pas ?~
+@47=~Je dois vous avertir que le processus est irréversible. Vous ne pourrez jamais récupérer la force vitale utilisée pour alimenter les enchantements, même si la bague ou son porteur est détruit.~
+@48=~Quelle quantité de ma force vitale vous faudra-t-il ?~
+@49=~Non merci. J'ai déjà eu assez de magiciens essayant de voler mon pouvoir pour toute une vie.~
+@50=~Difficile à dire... un dixième, peut-être un peu plus. À mon avis, le jeu en vaudrait la chandelle.~
+@51=~Cela paraît risqué. Je passe.~
+@52=~Elle en vaut la peine. Je le ferai.~
+@53=~Très bien. Revenez me voir dans une semaine. Les enchantements auront alors été appliqués. Nous pourrons ensuite commencer à imprégner la bague d'une partie de votre pouvoir divin.~
+@54=~Vous ne le regretterez pas.~
+@55=~C'est noté.~
+@56=~Très bien.~
+@57=~Bien sûr. Reprenons depuis le début.~
+@58=~Oui. Comme le temps passe... vous et le capitaine Corwin étiez venus acheter quelques provisions avant de partir pour le Passage de la Côte, si je me souviens bien.~
+@59=~Les affaires ont repris leur cours normal, heureusement, maintenant que les réfugiés sont partis.~
