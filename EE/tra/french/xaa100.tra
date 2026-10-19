@@ -1,0 +1,46 @@
+@1=~Bonjour. Vous devez être les nouveaux invités. Je suis Koveras, un chercheur de connaissances comme vous. Je vous cherchais depuis mon arrivée. J'ai des informations capitales à vous transmettre en privé. Acceptez-vous de m'écouter ?~
+@2=~Nous n'avons rien à apprendre de vous. Nous savons déjà tout ce qu'il nous faut.~
+@3=~Bien sûr. Où pouvons-nous parler ?~
+@4=~Ah, très bien. Je vais vous laisser.~
+@5=~Suivez-moi.~
+@6=~Vous ne venez pas ?~
+@7=~Je travaillais autrefois avec votre père, Gorion. Je transmettais ses messages à ses amis Ménestrels d'Eauprofonde. Sa mort m'attriste, mais c'est justement pour cela que je suis ici. Il voulait que vous receviez son ancienne bague de famille et le peu d'or qu'il possédait. Je suppose que vous êtes déjà au courant de la présence du Trône de Fer à Château-Suif. Je ne peux pas vous aider à les affronter, car je dois faire mon rapport à mes supérieurs dans le Nord. Je sais que Gorion serait fier de vous voir poursuivre son œuvre. Je dois partir à présent ; peut-être nous reverrons-nous bientôt.~
+@8=~C'est un honneur de me tenir devant une assemblée de nobles aussi respectée. J'accepte cette nouvelle fonction en pleine connaissance des lourdes responsabilités qui l'accompagnent.~
+@9=~Permettez-moi d'abord de répondre à plusieurs des questions soulevées plus tôt. Les rumeurs concernant la mobilisation d'Amn pour la guerre sont entièrement fondées, tout comme celles concernant l'implication de leurs alliés zhentarim. Mais ne vous inquiétez pas, nous ne sommes pas sans défense. Bien que la récente tentative des Zhents de nous priver de la ressource la plus précieuse en temps de guerre, le fer, nous ait affaiblis, elle ne nous a pas paralysés. Lorsque mon père a récemment été assassiné, j'ai hérité de son contrôle sur la branche occidentale du Trône de Fer. Celle-ci possède d'immenses réserves de fer, assez pour couvrir tous nos besoins. Je les offre à la ville, qui pourra en disposer comme elle l'entend. Malheureusement, notre plus grand commandant militaire est à l'agonie, ce qui constitue un coup terrible pour cette cité. Afin que le Poing Enflammé reste bien dirigé, je vais prendre le contrôle de ce régiment de mercenaires, avec la permission de son intendant actuel, Angelo.~
+@10=~Au lieu d'attendre que la guerre vienne jusqu'à nous, nous allons la porter chez eux. Avec le Poing Enflammé, nous devrions pouvoir prendre facilement Nashkel, puis fortifier rapidement le col des montagnes des Pics Brumeux. Quoi ?! Qui ose m'interrompre ?!~
+@11=~En délicatesse avec la loi
+J'ai charmé un membre du Poing Enflammé et appris que leur nouveau commandant, Angelo Dosan, m'avait condamné à mort, même si ses hommes pensent que ses motivations sont douteuses. Il est probable que le Poing Enflammé continuera à m'attaquer ; de mon côté, je devrais éviter autant que possible de les tuer. Le public ne verrait en moi qu'un meurtrier de gardes, et le destin me reprocherait sans doute d'avoir tué des innocents, quelles que soient leurs intentions à mon égard.~
+@12=~En délicatesse avec la loi
+J'ai choisi d'affronter le Poing Enflammé, même s'il semble que ses hommes ne font qu'obéir aux ordres de cet Angelo. Peu importe. Si j'en tue un pendant ma fuite, je serai connu comme un meurtrier de gardes. S'ils ne font que leur travail, le destin m'en tiendra également rigueur. Il vaudrait mieux les immobiliser d'une manière ou d'une autre et prendre la fuite.~
+@13=~Les Grands Ducs sont morts, assassinés par des meurtriers infiltrés parmi nous. Regardez là ! Les assassins accusés du meurtre des dirigeants du Trône de Fer ! Ils doivent faire partie du complot. Je ne les veux pas vivants ! Tuez-les ! Tuez-les tous ! Vous avez ÉCHOUÉ, <CHARNAME> !~
+@14=~Meurtre
+
+Je suis accusé d'avoir assassiné plusieurs hauts responsables du Trône de Fer, dont Rieltar. Koveras est mon accusateur, et il doit être mêlé d'une manière ou d'une autre au complot lié à la crise du fer.~
+@15=~Libéré par Tethtoril
+
+Tethtoril m'a libéré de ma prison, sachant que je suis innocent. Il m'a envoyé dans les catacombes sous Château-Suif, par lesquelles je devrais pouvoir m'échapper. Je dois ensuite me rendre à la Porte de Baldur pour arrêter Sarevok, ou Koveras comme il s'est récemment fait appeler.~
+@16=~Ces gens sont recherchés pour de multiples meurtres : TUEZ-les !~
+@17=~Vous n'avez pas besoin de lire ce document, mais comme je sais que vous êtes trop stupide pour suivre mon conseil, je vais simplement vous trancher la tête.~
+@18=~Toi et moi, nous n'en avons pas fini, <CHARNAME>. Je vais te tuer, comme j'ai tué Gorion. Tu ne connaîtras jamais la paix tant que tu ne m'auras pas tué le premier.~ [SAREV02]
+@19=~Tu es venu à ta mort, <PRO_BROTHERSISTER>. Tu ne peux pas te cacher derrière tes amis, ce combat est entre nous. Notre père l'aurait voulu ainsi : deux enfants du meurtre dans un duel à mort. Tu comptes parmi les forts ; après tout, le même sang coule dans nos veines. Voyons lequel de nous deux est le plus fort.~
+@20=~Tu es bien de ma famille. Nul autre n'aurait pu survivre assez longtemps pour venir m'affronter en personne. Bien sûr, cela ne changera rien à l'issue du combat. Je l'emporterai, et une nouvelle ère naîtra dans les Royaumes.~ [SAREV01]
+@21=~Tu es fou ! Qu'espères-tu gagner en ressuscitant un dieu mort ?~
+@22=~Tes agissements maléfiques prennent fin ce soir ! Ce dieu restera mort et tu vas le rejoindre !~
+@23=~Il doit y avoir une autre voie, mon frère ! Nous pourrions unir nos forces et combattre ce mal ensemble !~
+@24=~De quel droit prétends-tu t'approprier cette nouvelle ère ? Et si j'avais l'intention de te la prendre ?~
+@25=~Notre père Bhaal est mort, mais le carnage que j'orchestrerai prouvera que je suis son plus digne successeur. Ce carnage fera renaître sa puissance de ses cendres. Quand mon œuvre sera achevée, les rues ruisselleront de sang !~ [SAREV05]
+@26=~Successeur ? Les dieux ne sont guère réputés pour partager volontiers leur pouvoir !~
+@27=~Tu n'es digne de rien d'autre que de la mort que ma main va t'infliger.~
+@28=~Et si je pouvais prouver que je mérite ce pouvoir plus que toi ?~
+@29=~Oui, <PRO_BROTHERSISTER> ! Laisse éclater ta rage, et terminons-en d'une manière digne de notre héritage ! Affronte-moi ! Affronte le nouveau SEIGNEUR DU MEURTRE ! Angelo ! Tazok ! Montrez-vous, et finissons-en maintenant !~ [SAREV12]
+@30=~Tu n'as donc toujours pas compris ? Il n'y a aucun grand mal à combattre, sinon celui qui est en nous !~
+@31=~Mais j'ai entendu les voix ! J'ai senti l'influence de son ombre ! Il est là !~
+@32=~Ton mal est tout ce qui m'importe désormais ! Tu ne sortiras pas vivant d'ici !~
+@33=~Mais ensemble, nous pourrions affronter ce mal, quelle qu'en soit la source. Ensemble, nous serions plus forts !~
+@34=~Tu voudrais me voler mon destin ? Quelle arrogance véritablement divine ! Tu n'as ni la compétence ni le savoir nécessaires pour t'emparer de cet avenir ! Il m'a fallu des années pour le façonner pendant que tu restais cloîtré dans une bibliothèque d'imbéciles ! De simples guerres répandent des flots de sang sans provoquer la moindre colère divine. Seule ma volonté donnera aux cris des mourants la forme du pouvoir que je recherche ! Tu ne pourrais pas plus prendre ma place que je ne pourrais renoncer à mon destin ! Que tu essaies est pourtant tout à fait approprié, et digne de notre lignée. Affronte-moi ! Affronte le nouveau SEIGNEUR DU MEURTRE ! Angelo ! Tazok ! Montrez-vous, et finissons-en maintenant !~ [SAREV12]
+@35=~Tu n'as rien entendu d'autre que les efforts pathétiques de ton petit esprit pour comprendre sa propre puissance ! Bhaal est mort, et sa conscience s'est depuis longtemps dissipée dans les vents des plans ! Je ne recherche que son pouvoir, pas sa résurrection ! Toi qui veux m'arrêter, tu mourras ici ce soir ! Affronte-moi ! Affronte le nouveau SEIGNEUR DU MEURTRE ! Angelo ! Tazok ! Montrez-vous, et finissons-en maintenant !~ [SAREV12]
+@36=~Imbécile ! Je ne souhaite pas RESTAURER son pouvoir, mais seulement le FAIRE RENAÎTRE ! Grâce au sang divin qui coule dans mes veines, je m'emparerai de ce qu'il a si stupidement perdu ! Je DEVIENDRAI Bhaal. C'EST... la seule issue acceptable. Il ne nous reste plus qu'à terminer ceci d'une manière... digne de notre héritage. Affronte-moi ! Affronte le nouveau SEIGNEUR DU MEURTRE ! Angelo ! Tazok ! Montrez-vous, et finissons-en maintenant !~ [SAREV12]
+@37=~Je ne peux pas devenir plus fort ; je SUIS déjà fort ! C'est toi le faible, toi qui as détruit le tueur qui sommeillait en toi. J'ai DOMPTÉ le mien et je l'utilise comme bon me semble ! Le dieu est mort, mais son pouvoir est là, attendant une volonté. Cette volonté sera la mienne, et toutes les autres seront balayées ! Viens affronter ton frère ! Affronte-moi ! Affronte le nouveau SEIGNEUR DU MEURTRE ! Angelo ! Tazok ! Montrez-vous, et finissons-en maintenant !~ [SAREV12]
+@38=~Tu es perspicace pour un vieil homme. Tu sais pourquoi je suis ici. Livre-moi ton protégé et personne ne sera blessé. Si tu résistes, tu auras gâché ta vie pour rien.~
+@39=~Je regrette que tu le prennes ainsi, vieil homme.~
+@40=~M'accuser de haute trahison ! Vous mourrez pour votre insolence ! Grands Ducs, débarrassons-nous vite de ces intrus. Déchaînez vos magies les plus puissantes contre eux !~
